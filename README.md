@@ -26,7 +26,7 @@ This project is built using the **BLoC (Business Logic Component)** pattern for 
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/DimasSetiawan1/suitmedia_test_intern
     cd suitmedia_test
     ```
 
