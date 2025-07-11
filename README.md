@@ -1,3 +1,6 @@
+
+
+
 # Suitmedia Flutter Test Application
 
 A Flutter application developed as a part of a technical assessment for Suitmedia. The app consists of three screens and demonstrates proficiency in core Flutter concepts including state management, API integration, and navigation.
@@ -17,6 +20,10 @@ A Flutter application developed as a part of a technical assessment for Suitmedi
     -   **Infinite Scroll Pagination:** Automatically loads more users as the user scrolls to the bottom of the list.
     -   **Pull-to-Refresh:** Allows the user to reload the user list from the beginning.
     -   **Empty & Error States:** Displays appropriate messages if the user list is empty or if there's a network error.
+## Demo
+
+
+https://github.com/user-attachments/assets/7062c02e-8aa4-48bc-8b51-7220d288f342
 
 ## Architecture
 
